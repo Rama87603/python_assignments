@@ -1,0 +1,6 @@
+Tup1=("a","b","c")
+Tup2=("d","e","f")
+Tup3=tup1+tup2
+print(tup1)
+print(tup2)
+print(tup3)
